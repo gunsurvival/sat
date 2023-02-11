@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"target": "esnext",
+		"allowJs": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true,
+		"module": "esnext",
+		"moduleResolution": "nodenext",
+		"resolveJsonModule": true,
+		"isolatedModules": false,
+		"noEmit": false,
+		"sourceMap": true,
+		"outDir": "dist",
+		"rootDir": "src",
+		"strictPropertyInitialization": false,
+    	"noEmitOnError": false
+	}
+}
